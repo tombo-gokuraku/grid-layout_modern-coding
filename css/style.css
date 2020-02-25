@@ -35,6 +35,14 @@ a:active {
   background-color: #fff;
 }
 
+.item-m {
+  width: 364px;
+}
+
+.item-l {
+  width: 732px;
+}
+
 .item .image {
   display: block;
   width: 100%;
